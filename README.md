@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) 
  
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=watsoninfosec&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=watsoninfosec&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
